@@ -1,4 +1,4 @@
-# Ensemble estimation of low-frequency component of ocean dynamic height
+# Ensemble estimation of the low-frequency component of ocean dynamic height from satellite altimetry
 
 This repository provide a collection of shell scripts to produce
 an ensemble estimation (2D+time) of the low-frequency component of ocean dynamic height
