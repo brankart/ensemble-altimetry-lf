@@ -1,6 +1,6 @@
 # Utilities
 
-Python tools that have been used to prepare data.
+Python tools that have been used to prepare input model and observation data.
 Not needed to reproduce the Mediterranean application,
 since prepared data are available on a public repository.
 
